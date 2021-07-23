@@ -1,0 +1,18 @@
+[[package]]
+name = "json2json"
+version = "0.1.0"
+description = "A tool for converting JSON documents to another JSON document format."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "dee30bf4798db0ebcab41d275201fe6fe6440228445e1aa32e3312c3976e97c5"
+
+[metadata.files]
+json2json = [
+    {file = "json2json-0.1.0-py3-none-any.whl", hash = "sha256:577be5bd0e81097400f83afeaed86a65daf4b1403eb9095caea940be9ce4c141"},
+    {file = "json2json-0.1.0.tar.gz", hash = "sha256:39c9a51dc7807c7ffed2e392e0bd9ef259d82ab28976b5ab39825b1c748c87dd"},
+]
